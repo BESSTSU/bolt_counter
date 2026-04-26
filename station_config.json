@@ -1,0 +1,19 @@
+{
+  "_comment": "Edit expected counts for your specific station",
+  "station_id": "STATION-01",
+  "station_name": "Bolt Assembly Line A",
+  "model_path": "models/best.pt",
+  "hailo_model_path": "models/best.hef",
+  "camera_id": 0,
+  "conf_threshold": 0.45,
+  "use_hailo": true,
+  "expected_counts": {
+    "bolt": 4,
+    "nut": 4,
+    "washer": 8,
+    "screw": 6
+  },
+  "alert_on_mismatch": true,
+  "save_log": true,
+  "web_port": 5000
+}

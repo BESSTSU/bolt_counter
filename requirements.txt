@@ -1,0 +1,15 @@
+# ──────────────────────────────────────────────
+# requirements.txt
+# Install: pip install -r requirements.txt
+# ──────────────────────────────────────────────
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+flask>=3.0.0
+sahi>=0.11.0          # Dense object sliced inference
+roboflow>=1.1.0       # Download dataset from Roboflow
+pyyaml>=6.0           # Parse data.yaml
+
+# Hailo (install from official Hailo SDK for Pi AI HAT)
+# https://hailo.ai/developer-zone/documentation/
+# hailo_platform  <-- install separately from Hailo SDK
