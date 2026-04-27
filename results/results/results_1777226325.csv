@@ -1,0 +1,24 @@
+image,total_detected,inference_ms,alerts,pred_bolt,pred_nut,pred_washer,pred_screw,gt_bolt,gt_nut,gt_washer,gt_screw
+177ba1c2-66ba-4136-b7b4-8f63e1e1d26e_jpg.rf.dcf56aeb72ed0aad856b608427a9289b.jpg,22,387.4,bolt: 22/4 (+18); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),22,0,0,0,24,0,0,0
+20260426_225546_jpg.rf.07ef6d10cc70d143476fb4756f204e30.jpg,11,8.8,bolt: 11/4 (+7); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),11,0,0,0,11,0,0,0
+20260426_225551_jpg.rf.8cad10510d49c8b5cbf30791c9494dfc.jpg,12,8.5,bolt: 12/4 (+8); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),12,0,0,0,11,0,0,0
+20260426_225712_jpg.rf.3cbc8a8fb29ebfc91aa697354e6e4c96.jpg,12,8.4,bolt: 12/4 (+8); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),12,0,0,0,11,0,0,0
+20260426_225715_jpg.rf.e9100b22f209405f6c4c6e4e5ff63efe.jpg,12,8.2,bolt: 12/4 (+8); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),12,0,0,0,11,0,0,0
+20260426_230943_jpg.rf.8b310969b2b78c91fd6293d8d48978a2.jpg,9,16.0,bolt: 9/4 (+5); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),9,0,0,0,11,0,0,0
+20260426_230944_jpg.rf.9fe1a62be36c6912362ca11c8f898fdc.jpg,9,8.1,bolt: 9/4 (+5); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),9,0,0,0,11,0,0,0
+20260426_230947_jpg.rf.d83c5a4016dd766659d6b97bbd41686c.jpg,10,8.9,bolt: 10/4 (+6); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),10,0,0,0,11,0,0,0
+20260426_230949_jpg.rf.c9da43a87a54e13f21afddc369fe69dc.jpg,9,11.3,bolt: 9/4 (+5); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),9,0,0,0,11,0,0,0
+20260426_231006_jpg.rf.15aecdc6abe9e3b01996909ff23c99aa.jpg,10,8.1,bolt: 10/4 (+6); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),10,0,0,0,10,0,0,0
+20260426_232046_jpg.rf.7bb06ab2a84b8c7f262d741f01c7e44c.jpg,3,7.5,bolt: 3/4 (-1); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),3,0,0,0,3,0,0,0
+20260426_232048_jpg.rf.80cfc885879dfe7604a30e48a2a53c80.jpg,3,7.9,bolt: 3/4 (-1); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),3,0,0,0,3,0,0,0
+20260426_232116_jpg.rf.5c4522d6f935015308d7e28edb82f508.jpg,8,8.2,bolt: 8/4 (+4); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),8,0,0,0,7,0,0,0
+20260426_232142_jpg.rf.00e254c0d011603376542cf71a038a91.jpg,12,11.4,bolt: 12/4 (+8); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),12,0,0,0,12,0,0,0
+20260426_232148_jpg.rf.ee33943e2e188575e346cfc2b715b133.jpg,14,8.3,bolt: 14/4 (+10); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),14,0,0,0,13,0,0,0
+20260426_232159_jpg.rf.2ba1d62b1abf7baffbff30f711f32e37.jpg,14,8.6,bolt: 14/4 (+10); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),14,0,0,0,13,0,0,0
+20260426_232207_jpg.rf.01221003ae330ae0bc22bae23c76d4dc.jpg,15,11.9,bolt: 15/4 (+11); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),15,0,0,0,14,0,0,0
+20260426_232251_jpg.rf.a5b1ec09a9007994476020b7f1edf116.jpg,9,11.1,bolt: 9/4 (+5); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),9,0,0,0,9,0,0,0
+20260426_232259_jpg.rf.fe5e7b183cdd0a1e23e077f1e5a76ae5.jpg,13,8.2,bolt: 13/4 (+9); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),13,0,0,0,14,0,0,0
+b2bfc32b-43b2-4c1f-bb06-1c3a5019c9a5_jpg.rf.201b814caa2848da985c10c8816aa392.jpg,22,8.8,bolt: 22/4 (+18); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),22,0,0,0,24,0,0,0
+d88b6574-412d-47e8-b4d9-641b8ffc6a14_jpg.rf.baae03fbb6a662c52ed55ffb8dc980b5.jpg,22,8.7,bolt: 22/4 (+18); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),22,0,0,0,24,0,0,0
+f50a7148-4647-4cf5-8509-3a3357a8ca5d_jpg.rf.ee38c567ab3c7a8dab3aebdd19a80856.jpg,22,12.5,bolt: 22/4 (+18); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),22,0,0,0,24,0,0,0
+fd951667-0bbc-4177-8a91-f5665ad9dee7_jpg.rf.b2cd38b1b0acabbab6369c5759d5dc2e.jpg,22,17.6,bolt: 22/4 (+18); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),22,0,0,0,24,0,0,0

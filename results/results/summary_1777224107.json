@@ -1,0 +1,24 @@
+{
+  "total_images": 23,
+  "correct_images": 12,
+  "accuracy": 0.5217,
+  "avg_inference_ms": 36.33,
+  "per_class": {
+    "bolt": {
+      "precision": 1.0,
+      "recall": 0.9314
+    },
+    "nut": {
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    "washer": {
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    "screw": {
+      "precision": 0.0,
+      "recall": 0.0
+    }
+  }
+}

@@ -1,0 +1,6 @@
+image,total_detected,inference_ms,alerts,pred_bolt,pred_nut,pred_washer,pred_screw,gt_bolt,gt_nut,gt_washer,gt_screw
+177ba1c2-66ba-4136-b7b4-8f63e1e1d26e_jpg.rf.dcf56aeb72ed0aad856b608427a9289b.jpg,0,439.4,bolt: 0/4 (-4); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),0,0,0,0,24,0,0,0
+b2bfc32b-43b2-4c1f-bb06-1c3a5019c9a5_jpg.rf.201b814caa2848da985c10c8816aa392.jpg,0,12.2,bolt: 0/4 (-4); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),0,0,0,0,24,0,0,0
+d88b6574-412d-47e8-b4d9-641b8ffc6a14_jpg.rf.baae03fbb6a662c52ed55ffb8dc980b5.jpg,0,15.8,bolt: 0/4 (-4); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),0,0,0,0,24,0,0,0
+f50a7148-4647-4cf5-8509-3a3357a8ca5d_jpg.rf.ee38c567ab3c7a8dab3aebdd19a80856.jpg,0,13.4,bolt: 0/4 (-4); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),0,0,0,0,24,0,0,0
+fd951667-0bbc-4177-8a91-f5665ad9dee7_jpg.rf.b2cd38b1b0acabbab6369c5759d5dc2e.jpg,0,15.0,bolt: 0/4 (-4); nut: 0/4 (-4); washer: 0/8 (-8); screw: 0/6 (-6),0,0,0,0,24,0,0,0
