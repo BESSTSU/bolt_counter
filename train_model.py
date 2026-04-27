@@ -46,7 +46,7 @@ def create_yaml(dataset_path: str, class_names: list) -> str:
 def train(
     dataset_path: str,
     class_names: list,
-    epochs: int = 10,
+    epochs: int = 300,
     imgsz: int = 640,
     batch: int = 16,
     base_model: str = "yolov8n.pt",   # nano = fastest on Pi
@@ -71,7 +71,7 @@ def train(
         patience=20,
         save=True,
         plots=True,
-        device="cpu",       # change to 0 for CUDA GPU
+        device="0",       # change to 0 for CUDA GPU
         # ── Dense object augmentation ──────────
         mosaic=1.0,         # mix 4 images → โมเดลเห็นของเยอะๆ ตอน train
         copy_paste=0.3,     # copy วัตถุไปวางใน scene อื่น
